@@ -1,15 +1,15 @@
 {
-  "name": "funkcions-atom-syntax",
-  "theme": "syntax",
-  "version": "0.1.0",
-  "description": "FUNKCIONS - Atom Syntax Theme",
-  "keywords": [
-    "syntax",
-    "theme"
-  ],
-  "repository": "https://github.com/robert-m/funckions-atom-syntax",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "funkcions-atom-syntax",
+    "theme": "syntax",
+    "version": "0.1.0",
+    "description": "FUNKCIONS - Atom Syntax Theme",
+    "keywords": [
+        "syntax",
+        "theme"
+    ],
+    "repository": "https://github.com/robert-m/funckions-atom-syntax",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
