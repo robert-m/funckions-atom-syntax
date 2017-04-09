@@ -1,1 +1,1 @@
-# Funkcions ATOM Syntax Theme
+# Funkcions - Dark Atom Syntax
