@@ -1,4 +1,4 @@
-# Funkcions - SYNTA%
+# Funkcions - SYNTA% Theme
 
 The Dark Side of Atom - Based off the Dark One syntax. UI theme coming soon.
 
