@@ -1,4 +1,8 @@
-## 1.1.0 - First Release
+## 1.3.0
+* Removed deprecated classes
+
+
+## 1.1.0
 * Added dock tab active state
 
 
